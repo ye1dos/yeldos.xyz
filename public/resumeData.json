@@ -1,0 +1,64 @@
+{
+  "main": {
+    "name":"Yeldos Nurymov",
+    "occupation":"",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "contactmessage":"Contact me",
+    "email": "yeldos.nurymov@nu.edu.kz",
+    "phone": "",
+    "address":{
+      "street":"",
+      "city":"Almaty"
+    },
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/ye1dos",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Nazarbayev University",
+        "degree":"Bachelors",
+        "graduated":"2020",
+        "description":"Computer Science"
+      }
+    ],
+    "work":[],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": []
+  },
+  "testimonials":{
+    "testimonials":[]
+  }
+}
